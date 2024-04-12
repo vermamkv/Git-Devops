@@ -7,6 +7,8 @@ We are trying this option from Mac Computer and new VS Code
 
 This file has been changed
 
+Some more new text has to be added to see the changes
 
+Another Line will just be fine.
 
 
