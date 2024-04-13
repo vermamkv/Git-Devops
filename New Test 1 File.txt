@@ -1,0 +1,14 @@
+This is a test file and I am looking to upload to Git Folder
+we are people developers
+
+WE are into new concept developers
+
+We are trying this option from Mac Computer and new VS Code
+
+This file has been changed
+
+Some more new text has to be added to see the changes
+
+Another Line will just be fine.
+
+
